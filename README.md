@@ -54,9 +54,9 @@ Para acessar a aplicação use o endereço: `http://localhost:3041`
 - [x] Apresentar dados sobre casos de covid (total/novos casos)
 - [x] Apresentar total por situação (recuperado/ativo)
 - [x] Apresentar total de casos por faixa etária
-- [] Apresentar dados sobre óbitos
-- [] Apresentar dados de testagem
-- [] Permitir filtrar os dados do dashboard
+- [ ] Apresentar dados sobre óbitos
+- [ ] Apresentar dados de testagem
+- [ ] Permitir filtrar os dados do dashboard
 
 <h2 id="tecnologias">🛠 Tecnologias</h2>
 

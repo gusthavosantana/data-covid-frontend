@@ -17,11 +17,11 @@
 Para rodar a aplicação de forma local (na sua máquina), siga os passos abaixo:
 ### Clone este repositório
 ```
-$ git clone https://github.com/gusthavosantana/desafio-growthhackers-frontend.git
+$ git clone https://github.com/gusthavosantana/data-covid-frontend.git
 ```
 ### Acesse a pasta do projeto
 ```
-$ cd desafio-growthhackers-frontend
+$ cd data-covid-frontend
 ```
 
 ### Variáveis de ambiente

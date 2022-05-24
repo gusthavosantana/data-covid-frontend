@@ -63,7 +63,6 @@ Para acessar a aplicação use o endereço: `http://localhost:3041`
 As seguintes ferramentas foram usadas para construir este projeto:
 
 - [React](https://nodejs.org/en/)
-- [React Router DOM](https://reactrouterdotcom.fly.dev/)
 - [MUI](https://mui.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Nextjs](https://nextjs.org/)
